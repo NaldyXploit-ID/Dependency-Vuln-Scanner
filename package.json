@@ -1,0 +1,8 @@
+{
+  "name": "dependency-vuln-scanner",
+  "version": "0.1.0",
+  "description": "Demo package for Dependency-Vuln-Scanner",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
